@@ -9,7 +9,7 @@ void check_pass() {
     string user_pass;
     bool valid = true;
 
-    cout << "Введите пароль для входа : ";
+    cout << "Введите пароль для входа: ";
     cin >> user_pass;
 
     while (valid == true) {
