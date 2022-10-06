@@ -1,0 +1,4 @@
+﻿  ConsoleApplicationHome.cpp
+C:\Users\torti\source\repos\ConsoleApplicationHome\ConsoleApplicationHome\ConsoleApplicationHome.cpp(37,12): warning C4305: =: усечение из "double" в "float"
+C:\Users\torti\source\repos\ConsoleApplicationHome\ConsoleApplicationHome\ConsoleApplicationHome.cpp(42,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplicationHome.vcxproj -> C:\Users\torti\source\repos\ConsoleApplicationHome\x64\Debug\ConsoleApplicationHome.exe
